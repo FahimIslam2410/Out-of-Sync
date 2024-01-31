@@ -1,55 +1,72 @@
 # Out of Sync
 
-Out of Sync, a game crafted using the Godot game engine, draws inspiration from the engaging dynamics of "Out the Loop" playing a multiplayer game with one phone being passed. Initially envisioned for Android and iOS platforms, development has been halted due to challenges encountered with exporting to the Android platform.
-
-Certainly, here's how you can integrate that approach into the README:
+Out of Sync is a multiplayer game I made using the Godot game engine, inspired by the fun of "Out the Loop." Originally, I planned to release it on Android and iOS, but I ran into problems exporting it to Android, so development is on hold for now.
 
 ## Development Approach
 
-Out of Sync follows a phased development approach aimed at delivering core functionality before enhancing the user interface and aesthetics:
+I followed a phased development approach aimed at delivering core functionality before enhancing the user interface and aesthetics:
 
-1. **Basic Functionality**: The initial focus of development centered around implementing fundamental gameplay mechanics and user interface elements. This approach ensures that the game's core features are functional and operational.
+1. **Basic Functionality**: I focused initially on implementing fundamental gameplay mechanics and user interface elements. This approach ensured that the game's core features were functional and operational.
 
-2. **UI and Aesthetics**: Subsequent phases of development prioritize refining the user interface and enhancing the overall visual appeal of the game. By iterating on the existing foundation, the aim is to create a more immersive and engaging experience for players.
-
-By adopting this iterative development model, Out of Sync aims to strike a balance between functionality and aesthetics, ultimately delivering a polished and enjoyable gaming experience.
+2. **UI and Aesthetics**: In subsequent phases of development, I prioritized refining the user interface and enhancing the overall visual appeal of the game. By iterating on the existing foundation, my aim was to create a more immersive and engaging experience for players.
 
 ## How to Play
 
-1. **Title Screen**:
-   - Initiate gameplay by selecting the "Play" option.
-   - Familiarize yourself with game rules via the "How to Play" feature.
-   - Tailor settings, including discussion timer duration, using the "Options" menu.
-   - Opt out gracefully with the "Quit" functionality.
+### Title Screen
+- Start the game by tapping "Play."
+- Learn how to play in the "How to Play" section.
+- Adjust settings like the discussion timer in "Options."
+- Exit the game gracefully using the quit option.
 
-2. **Get Player Name**:
-   - Input player names within the designated fields.
-   - Seamlessly manage player roster with the intuitive addition and removal buttons.
-   - Advance to subsequent stages upon enlisting four players.
+![Title Screen](https://github.com/FahimIslam2410/Out-of-Sync/assets/120402745/38925f6d-6217-47dc-856c-6267a2616125)
 
-3. **Category Selection**:
-   - Exercise discretion in choosing question categories to suit player preferences.
-   - Validate functionality through the provided timer demonstration.
+### How to Play Screen
+- Work in progress!
 
-## What I learnt:
+![image](https://github.com/FahimIslam2410/Out-of-Sync/assets/120402745/0194cbff-6a2e-401b-9fbe-3f516e5346d3)
 
-The development journey of Out of Sync has been enriching, yielding invaluable insights:
+### Options Screen
+- Customize your experience:
+  - Turn the discussion timer on or off.
+  - Choose how long the discussion timer lasts (2 to 8 minutes).
 
-- Streamlined creation of reusable components to optimize scene construction.
-- Implementation of dynamic child component management for enhanced flexibility.
-- Crafting intuitive UI layouts conducive to seamless navigation.
-- Leveraging global scripts for efficient data storage and management.
+![Options Screen](https://github.com/FahimIslam2410/Out-of-Sync/assets/120402745/1f9d8c8a-f2dd-4cab-8489-4fd20aaa3058)
+
+### Get Player Name
+- Enter player names.
+- Add or remove players easily.
+- Move on when four players are ready.
+
+![Get Player Name](https://github.com/FahimIslam2410/Out-of-Sync/assets/120402745/ff57c5f9-f396-4033-8c6c-3b47b434ea59)
+![Player Name Management](https://github.com/FahimIslam2410/Out-of-Sync/assets/120402745/1468df4d-9ba0-4316-a258-dd30d30d153b)
+
+### Category Selection
+- Choose categories that interest you.
+- Test the discussion timer with a temporary button.
+
+![Category Selection](https://github.com/FahimIslam2410/Out-of-Sync/assets/120402745/49ca8253-979b-43c5-a3bb-c11b463e246f)
+
+## What I Learned
+
+Making Out of Sync taught me a lot:
+
+- I learned how to build things that I can reuse in different parts of the game.
+- I figured out how to add and remove things dynamically to make the game more flexible.
+- I got better at designing menus and screens that are easy to use.
+- I found out how to keep track of important information using global scripts.
 
 ## Future Improvements
 
-- Resolve compatibility hurdles to enable seamless Android deployment.
-- Elevate aesthetic appeal through refined visual elements and animations.
-- Expand gameplay features, potentially incorporating multiplayer online support or diverse game modes.
+I have some ideas for how to make Out of Sync even better:
+
+- I want to fix the problems with exporting to Android so everyone can play.
+- I'm going to make the game look nicer with better graphics and animations.
+- I might add more features, like letting people play online with friends or adding different game modes.
 
 ## Known Issues
 
-- While the core concept of Out of Sync remains promising, Android export may encounter compatibility issues with build tools, impeding successful deployment. As a result, further development has been paused until these challenges can be resolved. ("Could not find version of build tools that matches Target SDK, using 28.0.2")
+- I'm having trouble exporting to Android because of some technical stuff. I'll need to figure that out before I can continue working on the game.
 
 ---
 
-While development on Out of Sync has paused, its core concept and lessons learned serve as a foundation for future endeavors.
+I've put development on hold for now, but I've learned a lot from making Out of Sync, and I'm excited to see where it goes in the future.
