@@ -42,7 +42,7 @@ The development journey of Out of Sync has been enriching, yielding invaluable i
 
 ## Known Issues
 
-- While the core concept of Out of Sync remains promising, Android export may encounter compatibility issues with build tools, impeding successful deployment. As a result, further development has been paused until these challenges can be resolved.
+- While the core concept of Out of Sync remains promising, Android export may encounter compatibility issues with build tools, impeding successful deployment. As a result, further development has been paused until these challenges can be resolved. ("Could not find version of build tools that matches Target SDK, using 28.0.2")
 
 ## Future Improvements
 
