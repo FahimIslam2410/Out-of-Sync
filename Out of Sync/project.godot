@@ -1,0 +1,24 @@
+config_version=5
+
+[application]
+
+config/name="Out of Sync"
+config/description="\"Out of Sync\" is a dynamic game featuring a title screen with options for gameplay customization, including discussion timers and player name input. Navigate through scenes, adding and removing player names until four are entered, then dive into category selection. Experience the thrill of timed discussions in this engaging and interactive experience."
+run/main_scene="res://Scenes/TitleScreen.tscn"
+config/features=PackedStringArray("4.2", "Mobile")
+boot_splash/show_image=false
+
+[autoload]
+
+Globals="*res://Globals.gd"
+
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=720
+
+[rendering]
+
+renderer/rendering_method="mobile"
+textures/vram_compression/import_etc2_astc=true
+environment/defaults/default_clear_color=Color(0.14902, 0.192157, 0.219608, 1)
