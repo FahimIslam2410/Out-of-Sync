@@ -40,15 +40,15 @@ The development journey of Out of Sync has been enriching, yielding invaluable i
 - Crafting intuitive UI layouts conducive to seamless navigation.
 - Leveraging global scripts for efficient data storage and management.
 
-## Known Issues
-
-- While the core concept of Out of Sync remains promising, Android export may encounter compatibility issues with build tools, impeding successful deployment. As a result, further development has been paused until these challenges can be resolved. ("Could not find version of build tools that matches Target SDK, using 28.0.2")
-
 ## Future Improvements
 
 - Resolve compatibility hurdles to enable seamless Android deployment.
 - Elevate aesthetic appeal through refined visual elements and animations.
 - Expand gameplay features, potentially incorporating multiplayer online support or diverse game modes.
+
+## Known Issues
+
+- While the core concept of Out of Sync remains promising, Android export may encounter compatibility issues with build tools, impeding successful deployment. As a result, further development has been paused until these challenges can be resolved. ("Could not find version of build tools that matches Target SDK, using 28.0.2")
 
 ---
 
